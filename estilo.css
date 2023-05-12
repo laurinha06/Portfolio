@@ -1,0 +1,49 @@
+/* Estilos para o cabeçalho */
+header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1rem;
+	background-color: rgb(214, 133, 160);
+	color: #fff;
+}
+body {
+    background-color: bisque;
+    background-color: rgb(235, 177, 233);
+	overflow-x: hidden;
+    
+  }
+  body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+nav ul {
+	display: flex;
+	list-style: none;
+}
+
+nav li {
+	margin-right: 1rem;
+	width: 100px;
+	height: 100px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+}
+
+/* Estilos para as seções */
+section {
+	padding: 2rem;
+}
+
+section h2 {
+	margin-bottom: 1rem;
+}
+
+.kkkk img{
+	width: 40%;
+
+}
+
